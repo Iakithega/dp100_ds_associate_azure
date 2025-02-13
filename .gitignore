@@ -2,3 +2,5 @@
 .venv_uv
 .venv_venv
 .venv
+
+.env
